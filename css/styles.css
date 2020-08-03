@@ -1,0 +1,156 @@
+body {
+    font-family: "Montserrat";
+}
+
+p {
+    color: #838383;
+}
+
+h5 {
+    padding: 4% 0;
+}
+
+img {
+    border-radius: 5%;
+}
+
+#title{
+    background-color: #FFFFFF;
+}
+
+#team {
+    width: 100%;    
+}
+h1{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2rem;
+    line-height: 1.5
+}
+
+.container-fluid {
+    padding: 2% 15%;
+}
+
+/* Navigation Bar */
+
+.navbar-brand {
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 2.725rem;
+    color: #000000;
+}
+
+.nav-item {
+    padding: 0 18px;
+}
+
+.nav-link {
+    font-size: 1.2rem;
+    font-weight: 'Montserrat', bolder;
+    color: #000000;
+}
+
+/* Title Image */
+
+.title-img {
+    width: 70%;
+    margin-left: 12%;
+    border-radius: 4%;
+}
+
+.service-heading {
+    padding: 3% 0;
+}
+
+.icon1{
+    color: #00bcd4;
+}
+
+.icon2 {
+    color: #96bb7c;
+}
+
+.icon3 {
+    color: #ff5f40;
+}
+
+/* Design Section */
+
+.design-image {
+    margin-top: 20%;
+}
+
+.design-h5 {
+    padding: 0;
+}
+
+.design-p {
+    color: #838383;
+    padding: 2% 0 0 0;
+}
+
+/* Team Section */
+
+.team-p {
+    color: #ff5f40;
+}
+
+.team-person3 {
+    width: 25%;
+    position: relative;
+    left: 50%;
+    bottom: 120%;
+}
+
+.team-person1 {
+    width: 20%;
+    position: relative;
+    bottom: 150%;
+    left: 25%;
+}
+ .team-person2 {
+     position: relative;
+     width: 25%;
+     left: 50%;
+     bottom: 60%;
+ }
+
+/* Sayings Section */
+
+.sayings-h1 {
+    padding: 5% 0;
+}
+
+.sayings-person4 {
+    width: 10%;
+}
+
+.sayings-h5 {
+    float: right;
+    position: relative;
+    right: 66%;
+    bottom: 20%;
+}
+ .sayings-p {
+     float: right;
+     position: relative;
+     top: 37%;
+     right: 32%;
+ }
+
+ /* End  */
+
+#end {
+    background-color: #221f3b;
+}
+ .end-p {
+     color: #FFFFFF;
+ }
+
+.end-h3 {
+    color: #FFFFFF;
+}
+
+.end-image {
+    color: #FFFFFF;
+    margin-left: 3px;
+}
